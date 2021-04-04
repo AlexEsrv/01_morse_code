@@ -1,4 +1,4 @@
-A Morse code converter.
+# A Morse code converter.
 
 A simple programm that converts a word into morse code.
 
